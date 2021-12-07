@@ -11,6 +11,8 @@ Nice things to do in code before XMas'21 :christmas_tree:  [https://adventofcode
 - Day 4 contents
     - Files reading and parsing, arrays manipulations, classes, constructors, lambda, reduce, toString
 - Day 5 contents
-    - Files reading and parsing with tuples, tuples reversal construction, `numpy` array manipulations, plotting    
+    - Files reading and parsing with tuples and regexp, tuples reversal construction, `numpy` array manipulations, plotting    
+- Day 6 contents
+    - Files parsing with regexp, `numpy` array manipulations and shifting, classes, constructors, class functions, plotting
    
 ![plot](./day5/output.png)
