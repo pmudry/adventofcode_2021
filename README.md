@@ -1,4 +1,4 @@
-# Advent of code'21
+# Advent of code'21 in Python with explanations
 
 Nice things to do in code before XMas'21 :christmas_tree:  [https://adventofcode.com/2021]
 
@@ -15,9 +15,9 @@ For each day, a brief summary of what I used for solving the puzzles and a ratin
 - Day 4 - Giant squid - Difficulty 2, fun 3
     - Files reading and parsing, arrays manipulations, classes, constructors, lambda, reduce, toString
 - Day 5 - Hydrothermal Venture - Difficulty 2 (part 1), Difficulty 3 (part 2), fun 5
-    - Files reading and parsing with tuples and regexp, tuples reversal construction, `numpy` array manipulations, plotting    
+    - Files parsing with tuples and regexp, tuples reversal construction, `numpy` array manipulations, plotting    
 - Day 6 - Lanternfish - Difficulty 1 (part 1), Difficulty 3 (part 2), fun 5
-    - Files parsing with regexp, `numpy` array manipulations and shifting, classes, constructors, class functions, plotting
+    - Files parsing with regexp, `numpy` array manipulations and shifting, classes, constructors, class functions
 
-The plot from day 5
+
 ![plot](./day5/output.png)
