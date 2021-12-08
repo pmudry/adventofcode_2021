@@ -18,6 +18,8 @@ Here is a short summary of what was used for solving the puzzles. Each problem a
     - Files parsing with tuples and regexp, tuples reversal construction, `numpy` array manipulations, plotting    
 - Day 6 - Lanternfish - Difficulty 1 (part 1), Difficulty 3 (part 2), fun 5
     - Files parsing with regexp, `numpy` array manipulations and shifting, classes, constructors, class functions
+- Day 6 - Crabs (The Treachery of Whales) - Difficulty 0, fun 2
+    - Files parsing with regexp, some maths
 
 
 ![plot](./day5/output.png)
