@@ -2,7 +2,7 @@
 
 Nice things to do in code before XMas'21 :christmas_tree:  [https://adventofcode.com/2021]
 
-I used this occasion to try some things in Python using Jupyter notebooks.
+I used this year advent to try some things in Python using Jupyter notebooks.
 
 Here is a short summary of what was used for solving the puzzles. Each problem also has a (personal) rating of the difficulty and fun I had (5 is the most).
 
