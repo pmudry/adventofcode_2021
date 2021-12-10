@@ -10,7 +10,7 @@ Here is a short summary of what was used for solving the puzzles. Each problem a
     - Files reading, loops, sliding windows, some conversions to lists and lists comprehensions
 - Day 2 - Dive! - Difficulty 1, fun 3
     - Files reading, simple text parsing, tuples creations and comprehensions
-- Day 3 - Binary diagnostics - Difficulty 2, fun 0
+- Day 3 - Binary diagnostics - Difficulty 2, fun 0p
     - Files reading, arrays manipulations, comprehensions and maps, string joins, functions
 - Day 4 - Giant squid - Difficulty 2, fun 3
     - Files reading and parsing, arrays manipulations, classes, constructors, lambda, reduce, toString
@@ -22,6 +22,8 @@ Here is a short summary of what was used for solving the puzzles. Each problem a
     - Files parsing with regexp, some maths
 - Day 8 - Seven Segment Search - Difficulty 1 (part 1), fun 0 (too long to read and understand), Difficulty 4 (part 2), fun 0
     - Files parsing with regexp, hash map and `Counter`, flatten
+- Day 9 - Smoke basin - Difficulty 4, fun 4
+    - Files parsing with numpy, image processing and labeling, neighborhood kernel functions
 
 
 ![plot](./day5/output.png)
