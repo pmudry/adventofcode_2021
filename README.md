@@ -23,7 +23,9 @@ Here is a short summary of what was used for solving the puzzles. Each problem a
 - Day 8 - Seven Segment Search - Difficulty 1 (part 1), fun 0 (too long to read and understand), Difficulty 4 (part 2), fun 0
     - Files parsing with regexp, hash map and `Counter`, flatten
 - Day 9 - Smoke basin - Difficulty 4, fun 4
-    - Files parsing with numpy, image processing and labeling, neighborhood kernel functions
+    - Files parsing with numpy, image processing and labelling, neighborhood kernel functions
+- Day 10 - Syntax scoring - Difficulty 2, fun 3
+    - Push-down automaton sorting (1 stack), enums, lambda
 
 
 ![plot](./day5/output.png)
