@@ -27,5 +27,8 @@ Here is a short summary of what was used for solving the puzzles. Each problem a
 - Day 10 - Syntax scoring - Difficulty 2, fun 3
     - Push-down automaton sorting (1 stack), enums, lambda
 
+- Day 15 - Chiton - Difficulty 3, fun 3
+    - A* and Dijsktra shortest path, dictionaries, `PriorityQueues`, class definition
+
 
 ![plot](./day5/output.png)
